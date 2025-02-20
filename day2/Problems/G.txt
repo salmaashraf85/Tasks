@@ -1,0 +1,12 @@
+using System;
+class Program
+{
+    static void Main()
+    {
+       string x= Console.ReadLine();
+       long num= int.Parse(x);
+        long result = num * (num + 1) / 2;
+       
+       Console.WriteLine(result);
+    }
+}
