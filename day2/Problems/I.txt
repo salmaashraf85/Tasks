@@ -1,0 +1,14 @@
+using System;
+class Program
+{
+    static void Main()
+    {
+        
+        string[] inputs = Console.ReadLine().Split(' ');
+        float x = float.Parse(inputs[0]);
+        float y = float.Parse(inputs[1]);
+        string result = x >= y ? "Yes" : "No";
+        Console.WriteLine(result);
+
+    }
+}
