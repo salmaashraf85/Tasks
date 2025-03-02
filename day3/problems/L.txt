@@ -1,0 +1,22 @@
+using System;
+using System.Globalization;
+class Program
+{
+    static void Main()
+    {
+      
+        string[] first_person = Console.ReadLine().Split(' ');
+        string[] second_person = Console.ReadLine().Split(' ');
+        if (first_person[1].ToLower() == second_person[1].ToLower())
+        {
+            Console.WriteLine("ARE Brothers");
+        }
+        else
+        {
+            Console.WriteLine("NOT");
+        }
+       
+        
+
+    }
+}
