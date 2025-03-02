@@ -1,0 +1,27 @@
+using System;
+using System.Globalization;
+class Program
+{
+    static void Main()
+    {
+        char x = char.Parse(Console.ReadLine());
+        //capital 65->90 small 97->122
+       if(x >=65 && x <= 90)
+        {
+            Console.WriteLine("ALPHA\r\nIS CAPITAL\r\n");
+        }
+      
+       else if(x>=97 && x <= 122)
+        {
+            Console.WriteLine("ALPHA\r\nIS SMALL\r\n");
+        }
+        //digits 48->57
+        else if (x>=48 && x <= 57)
+        {
+            Console.WriteLine("IS DIGIT\r\n");
+        }
+        
+        
+
+    }
+}
