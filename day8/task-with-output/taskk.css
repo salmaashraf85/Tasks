@@ -1,0 +1,48 @@
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+form #number, form #Text, form #sec, form #button {
+  width: 400px;
+  height: 30px;
+  margin: 15px 0;
+  padding: 10px;
+  font-size: 20px;
+  background-color: rgba(245, 241, 241, 0.81);
+  border-radius: 8px;
+  border-color: white;
+  outline: none;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+}
+form #sec {
+  width: 420px;
+  height: 50px;
+}
+form #button {
+  height: 60px;
+  color: white;
+  font-weight: bold;
+  background-color: rgb(84, 146, 126);
+  width: 425px;
+  border-radius: 8px;
+}
+
+.output {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  row-gap: 20px;
+  align-items: center;
+  justify-content: center;
+}
+.output .box {
+  width: 80%;
+  height: 55px;
+  margin: auto;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  border-radius: 8px;
+}/*# sourceMappingURL=taskk.css.map */
