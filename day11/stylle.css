@@ -334,6 +334,7 @@ nav ul li .logo .movie {
   }
   nav ul .nav-bar li {
     margin: 0;
+    font-size: 9px;
   }
 }
 @media (max-width: 360px) {
