@@ -295,9 +295,8 @@ nav ul li .logo .movie {
     display: flex;
   }
 }
-@media (max-width: 480px) {
+@media (max-width: 420px) {
   nav {
-    width: 95%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -330,7 +329,7 @@ nav ul li .logo .movie {
   nav ul .nav-bar {
     display: flex;
     flex-direction: row;
-    gap: 15px;
+    gap: 10px;
     justify-content: center;
   }
   nav ul .nav-bar li {
