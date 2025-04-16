@@ -37,6 +37,15 @@ ul {
   font-size: 13px;
   gap: 30px;
 
+  .nav-bar{
+      display: flex;
+      flex-direction: row; // default is stacked
+      gap: 30px;
+    
+      &:nth-child(1) {
+        border-bottom: 2px solid #ccc;
+      }
+    }
   .search-container {
     position: relative;
     display: flex;
@@ -90,9 +99,6 @@ ul {
     }
   }
 
-  li:nth-child(2) {
-    border-bottom: 2px solid #ccc;
-  }
 
   li {
     padding: 10px 10px;
@@ -276,7 +282,7 @@ ul {
   }
 }
 
-@media (max-width: 816px) {
+@media (max-width: 719px) {
   .logo {
     font-size: 12px; 
     font-weight: bold;
@@ -297,7 +303,7 @@ ul {
   }
 
   #description {
-    font-size: 10px; // changed from 8px for readability
+    font-size: 10px; 
     line-height: 1.4;
   }
 
@@ -326,19 +332,49 @@ ul {
 
 @media (max-width: 480px) {
   nav {
+    width: 95%;
+    margin: 0 auto; 
+    display: flex;
     flex-direction: column;
+    padding: 10px;
+    background-color: transparent;
+    color: white;
+    align-items: center; 
 
     ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
       flex-direction: column;
+      align-items: center; 
       gap: 10px;
+
+      .logo {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 10px;
+        text-align: center; 
+
+        .new {
+          color: #e74c3c;
+        }
+
+        .movie {
+          color: #3498db;
+        }
+      }
+
+      .nav-bar {
+        display: flex;
+        flex-direction: row;
+        gap: 15px;
+        justify-content: center; 
+        li {
+          margin: 0;
+        }
+      }
     }
   }
-
-  #The-title {
-    font-size: 18px;
-  }
-
-  #description {
-    font-size: 9px;
-  }
 }
+
