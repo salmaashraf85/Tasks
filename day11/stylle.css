@@ -335,4 +335,9 @@ nav ul li .logo .movie {
   nav ul .nav-bar li {
     margin: 0;
   }
+}
+@media (max-width: 360px) {
+  nav ul.nav-bar li {
+    font-size: 11px;
+  }
 }/*# sourceMappingURL=stylle.css.map */
