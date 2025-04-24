@@ -1,13 +1,10 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import MyButton from './components/button'
 import MyTextField from './components/Input'
 import DeleteIcon from '@mui/icons-material/Delete';
 import DoneIcon from '@mui/icons-material/Done';
 function App() {
-  const [count, setCount] = useState(0)
   const [tasks, setTasks] = useState([])
   const [taskInput, setTaskInput] = useState('')
 
