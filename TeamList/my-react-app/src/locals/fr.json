@@ -1,0 +1,26 @@
+{
+    "translation": {
+    "appBar": {
+     "teamList":"Liste des équipes",
+     "adminDashboard":"Tableau de bord d'administration"
+    },
+    "table": {
+      "headers": {
+        "name": "Nom",
+        "email": "E-mail",
+        "edit": "éditer",
+        "phone":"téléphone",
+        "position":"Position",
+        "status":"statut",
+        "location":"Lieu du bureau",
+        "birthday":"Anniversaire",
+        "year":"Année",
+        "address":"Adresse"
+      }
+    },
+    "button":{
+      "add": "Ajouter",
+      "search":"recherche"
+    }
+}
+  }
