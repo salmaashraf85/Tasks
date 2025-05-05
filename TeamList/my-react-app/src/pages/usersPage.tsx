@@ -1,13 +1,13 @@
 import {useState} from 'react';
-import { User } from '../types/user';
-import { CustomUserSkeleton } from "../components/tables/UserTableSkeleton"
+import { User } from '../types/user.ts';
+import { CustomUserSkeleton } from "../components/tables/UserTableSkeleton.tsx"
 import DeleteOutlineOutlinedIcon from '@mui/icons-material/DeleteOutlineOutlined';
 import DriveFileRenameOutlineOutlinedIcon from '@mui/icons-material/DriveFileRenameOutlineOutlined';
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper, Checkbox, Avatar, Chip, Box, Collapse, TablePagination } from '@mui/material';
 import { KeyboardArrowDown, KeyboardArrowUp } from '@mui/icons-material';
 import { IconButton } from '@mui/material';
 import { useTranslation } from 'react-i18next';
-import {useUsers} from '../services/query.tsx';
+import {useUsers} from '../services/query';
 
 export default function UserList() {
 
