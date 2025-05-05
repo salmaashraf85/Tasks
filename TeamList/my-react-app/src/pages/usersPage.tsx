@@ -77,12 +77,12 @@ export default function UserList() {
             <TableRow sx={{ color: 'text.secondary' }}>
               <TableCell padding="checkbox">
               </TableCell>
-              <TableCell sx={{fontWeight:'bold',fontSize:'medium'}} align='center'>{t('table.headers.name')}</TableCell>
-              <TableCell sx={{fontWeight:'bold',fontSize:'medium'}} align='center'>{t('table.headers.position')}</TableCell>
-              <TableCell sx={{fontWeight:'bold',fontSize:'medium'}} align='center'>{t('table.headers.email')}</TableCell>
-              <TableCell sx={{fontWeight:'bold',fontSize:'medium'}} align='center'>{t('table.headers.phone')}</TableCell>
-              <TableCell sx={{fontWeight:'bold',fontSize:'medium'}} align='center'>{t('table.headers.status')}</TableCell>
-              <TableCell sx={{fontWeight:'bold',fontSize:'medium'}} align='center'>{t('table.headers.edit')}</TableCell>
+              <TableCell sx={{fontWeight:'bold',fontSize:'medium'}} >{t('table.headers.name')}</TableCell>
+              <TableCell sx={{fontWeight:'bold',fontSize:'medium'}}>{t('table.headers.position')}</TableCell>
+              <TableCell sx={{fontWeight:'bold',fontSize:'medium'}} >{t('table.headers.email')}</TableCell>
+              <TableCell sx={{fontWeight:'bold',fontSize:'medium'}} >{t('table.headers.phone')}</TableCell>
+              <TableCell sx={{fontWeight:'bold',fontSize:'medium',paddingLeft:'30px'}}>{t('table.headers.status')}</TableCell>
+              <TableCell sx={{fontWeight:'bold',fontSize:'medium'}}>{t('table.headers.edit')}</TableCell>
             </TableRow>
           </TableHead>
           <TableBody>
