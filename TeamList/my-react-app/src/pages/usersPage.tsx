@@ -1,5 +1,4 @@
-import { useEffect, useState } from 'react';
-import { fetchUser } from '../api/userApi';
+import {useState} from 'react';
 import { User } from '../types/user';
 import { CustomUserSkeleton } from "../components/tables/UserTableSkeleton"
 import DeleteOutlineOutlinedIcon from '@mui/icons-material/DeleteOutlineOutlined';
@@ -8,60 +7,33 @@ import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper
 import { KeyboardArrowDown, KeyboardArrowUp } from '@mui/icons-material';
 import { IconButton } from '@mui/material';
 import { useTranslation } from 'react-i18next';
+import {useUsers} from '../services/useQuery'
 
 export default function UserList() {
+
   const { t } = useTranslation();
-  const [users, setUsers] = useState<User[]>([]);
-  const [loading, setLoading] = useState<boolean>(true);
-  const [error, setError] = useState<string | null>(null);
   const [expandedId, setExpandedId] = useState<string | null>(null);
   const [apiPage, setPage] = useState(1);
   const [rowsPerPage, setRowsPerPage] = useState(5);
 
-  useEffect(() => {
-    const loadUsersWithDepartments = async () => {
-      try {
-        setLoading(true);
-        const data = await fetchUser(apiPage, rowsPerPage);
-        const usersWithDepartments = data.results.map((user: User) => ({
-          ...user,
-          position: assignPosition(),
-          status: assignStatus(),
-        }));
-        setUsers(usersWithDepartments)
-      } catch (err) {
-        setError(err instanceof Error ? err.message : 'Failed to load users');
-      } finally {
-        setLoading(false);
-      }
-    };
-
-    loadUsersWithDepartments();
-  }, [apiPage, rowsPerPage]);
+  const { data: users, isLoading, error } = useUsers(apiPage,rowsPerPage);
 
   const toggleExpand = (id: string) => {
     setExpandedId(expandedId === id ? null : id);
   };
 
-  function assignPosition(): string {
-    const positions = ['Analyist', 'developer', 'tester', 'manager', 'fresher'];
-    return positions[Math.floor(Math.random() * positions.length)];
-  }
 
-  function assignStatus(): string {
-    const stat = ['Full Time', 'Part Time'];
-    return stat[Math.floor(Math.random() * stat.length)];
-  }
-
-  if (loading) {
+  if (isLoading) {
     return (
       <Box p={4}>
         <CustomUserSkeleton />
       </Box>
     );
   }
-
-  if (error) return <div>Error: {error}</div>;
+  
+  if (error) {
+    return <div>Error: {error.message}</div>;
+  }
 
   return (
     <Box sx={{ overflowX: 'auto' }}>
@@ -81,7 +53,7 @@ export default function UserList() {
               </TableRow>
             </TableHead>
             <TableBody>
-              {users.map((user) => (
+              {users.map((user:User) => (
                 <>
                   <TableRow>
                     <TableCell padding="checkbox">

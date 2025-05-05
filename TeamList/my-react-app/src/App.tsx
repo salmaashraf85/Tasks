@@ -13,6 +13,8 @@ import MenuIcon from '@mui/icons-material/Menu';
 import MyButton from './components/button';
 import SearchInputBox from './components/searchBox'
 import { useTranslation } from 'react-i18next';
+import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
+const queryClient = new QueryClient();
 function App() {
   const {t}=useTranslation();
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -103,7 +105,9 @@ function App() {
         <MyButton>{t('button.add')}</MyButton>
       </Box>
     </Box>
+    <QueryClientProvider client={queryClient}>
           <UserListWithDepartments />
+          </QueryClientProvider>
         </Box>
       </Box>
     </I18nextProvider>
