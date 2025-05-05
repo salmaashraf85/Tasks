@@ -7,7 +7,7 @@ import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Paper
 import { KeyboardArrowDown, KeyboardArrowUp } from '@mui/icons-material';
 import { IconButton } from '@mui/material';
 import { useTranslation } from 'react-i18next';
-import {useUsers} from '../services/query.ts';
+import {useUsers} from '../services/query';
 
 export default function UserList() {
 
