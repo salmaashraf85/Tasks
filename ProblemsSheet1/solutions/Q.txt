@@ -1,0 +1,30 @@
+using System;
+using System.ComponentModel;
+using System.Globalization;
+using System.Text.RegularExpressions;
+class Program
+{
+    static void Main()
+    {
+
+        string []input = Console.ReadLine().Split(' ');
+        float x = float.Parse(input[0]);
+        float y = float.Parse(input[1]);
+        string result;
+        if(x==0 || y==0)
+        {
+            result = x == 0 ? (y == 0 ? "Origem" : "Eixo Y") : "Eixo X";   
+        }
+        else if (x > 0)
+        {
+            result = y > 0 ? "Q1" : "Q4";
+        }
+        else
+        {
+            result = y < 0 ? "Q3" : "Q2";
+        }
+        Console.WriteLine(result);
+
+
+    }
+}
