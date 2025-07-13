@@ -1,0 +1,27 @@
+using System;
+using System.Globalization;
+class Program
+{
+    static void Main()
+    {
+       string str = Console.ReadLine();
+ decimal x =decimal.Parse(str);
+ decimal mod = x % 25;
+ decimal upper = 0, lower = 0;
+ if(x<0 || x > 100)
+ {
+     Console.WriteLine($"Out of Intervals");
+     return;
+ }
+ if (x>0 && x <= 25)
+ {
+     Console.WriteLine($"Interval [0,25]");
+     return;
+ }
+ 
+ lower = mod == 0 ? x-25 : (int)(x / 25) * 25;
+ upper= mod == 0 ? x: lower + 25;
+
+ Console.WriteLine($"Interval ({(int)lower},{(int)upper}]");
+}
+}
