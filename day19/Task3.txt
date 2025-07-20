@@ -1,0 +1,52 @@
+public class ListNode
+{
+    public int val;
+    public ListNode left;
+    public ListNode right;
+    public ListNode(int val )
+    {
+        this.val = val;
+    }
+  }
+   public class BinaryTree
+ 
+   {
+    public ListNode root;
+    
+    public int GetMin(ListNode n)
+    {
+        //base case enaha leaf node
+        if(n== null)
+        {
+            return 10000000;
+        }
+
+        int left = GetMin(n.left);
+        int right = GetMin(n.right);
+
+        return Math.Min(left, Math.Min(right,n.val));
+
+
+    }
+     
+   }
+
+
+
+class Program
+{
+    
+    static void Main()
+    {
+        BinaryTree tree = new BinaryTree();
+
+        tree.root = new ListNode(10);
+        tree.root.left = new ListNode(5);
+        tree.root.right = new ListNode(15);
+        tree.root.left.left = new ListNode(2);
+        tree.root.left.right = new ListNode(7);
+
+        int min = tree.GetMin(tree.root);
+        Console.WriteLine($"Minimum value in tree is: {min}");
+    }
+}

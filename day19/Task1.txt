@@ -1,0 +1,49 @@
+using ConsoleApp2;
+using System;
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+
+
+
+public class Person
+{
+   public  string Name { get; set; }
+   public char Gender { get; set; }
+   
+    public Person(string Name,char Gender) {
+        this.Name = Name;
+        this.Gender = Gender;
+    }
+}
+public static class QueueExtension
+{
+    public static string GetFirstMale(this Queue<Person> q)
+    {
+        Func<char, bool> GetGender = (x) => x == 'm';
+
+        foreach (var person in q)
+        {
+            if (GetGender(person.Gender))
+            {
+                 return person.Name;
+            }
+        }
+        return "No Males Exist";
+    }
+}
+class Program
+{
+
+    static void Main()
+    {
+        Queue<Person> q = new Queue<Person>();
+        q.Enqueue(new Person("salma",'f'));
+        q.Enqueue(new Person("Mohammed", 'm'));
+        q.Enqueue(new Person("Ali", 'm'));
+        q.Enqueue(new Person("Maria", 'f'));
+
+        string Name= q.GetFirstMale();
+        Console.WriteLine($"The First Male is :{Name}");
+
+    }
+}
