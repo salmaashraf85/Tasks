@@ -1,0 +1,28 @@
+{
+    "translation": {
+    "appBar": {
+     "teamList":"Team List",
+     "adminDashboard":"Admin Dashboard"
+    },
+    "table": {
+      "headers": {
+        "name": "Name",
+        "email": "E-mail",
+        "edit": "Edit",
+        "phone":"Phone",
+        "position":"Position",
+        "status":"Status",
+        "location":"Location",
+        "birthday":"Birthday",
+        "year":"Year",
+        "address":"Address"
+          
+      }
+      
+    },
+    "button":{
+      "add": "Add",
+      "search":"Search"
+    }
+}
+  }

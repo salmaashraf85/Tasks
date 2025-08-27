@@ -1,0 +1,30 @@
+div{
+    display:inline-block;
+    outline:15px solid black;
+    height:40px;
+    width:140px;
+    background-color:rgb(216, 208, 208);
+    padding:50px;
+    margin:50px;
+    font-size:30px;
+    text-align:center;
+    vertical-align:center;
+    justify-content: center;  /* Center horizontally */
+    align-items: center;
+    border-width:15px;
+   
+    
+}
+.Shape-1{
+    border:15px solid red;
+}
+.Shape-2{
+    
+    border-style: solid;
+    border-color:blue green;
+   
+}
+.Shape-3{
+    border-style:dashed;
+    border-color:red green blue yellow;
+}

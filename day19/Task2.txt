@@ -1,0 +1,57 @@
+using System;
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+
+public class Person
+{
+    public string Name { get; set; }
+    public char Gender { get; set; }
+
+    public Person(string Name, char Gender)
+    {
+        this.Name = Name;
+        this.Gender = Gender;
+    }
+    public override string ToString()
+    {
+        return $"Name:{Name}\nGender:{Gender}";
+    }
+
+}
+public static class StackExtension
+{
+    public static Person GetName(this Stack<Person> S, Predicate<string> getName)
+    {
+        foreach (var person in S)
+        {
+            if (getName(person.Name))
+            {
+                return person;
+            }
+        }
+        return null;
+    }
+}
+class Program
+{
+
+    static void Main()
+    {
+
+        Stack<Person> s = new Stack<Person>();
+        s.Push(new Person("salma", 'f'));
+        s.Push(new Person("Maria", 'f'));
+        s.Push(new Person("Mohammed", 'm'));
+
+        Person p = s.GetName((x) => x == "Mohammed");
+        if (p != null)
+        {
+            Console.WriteLine(p.ToString());
+        }
+        else
+            Console.WriteLine("Not Exist");
+
+
+
+    }
+}

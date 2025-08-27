@@ -1,0 +1,130 @@
+--1--
+select Dependent_name,d.Sex
+from Dependent d join Employee e on e.SSN=d.ESSN
+where e.Sex='F' and d.Sex='F'
+union
+select  Dependent_name,d.Sex
+from Dependent d join Employee e on e.SSN=d.ESSN
+where e.Sex='M' and d.Sex='M'
+
+--2--
+select Pname,SUM(Hours)
+from Project join Works_for on Pnumber=Pno
+group by Pname
+
+--3--
+select d.*
+from Departments d 
+join Employee e on d.Dnum=e.Dno
+where e.SSN=(select MIN(SSN) from Employee )
+
+--4--
+select Dname,Max(e.Salary) as maxSalary,MIN(e.Salary) as minsalary,AVG(e.Salary) as avgSalary
+from Departments d join Employee e on d.Dnum=e.Dno
+group by Dname
+
+--5--
+select Lname
+from Employee e join Departments d on e.SSN=d.MGRSSN 
+where e.SSN not in(select ESSN from Dependent)
+
+--6--
+select Dname,Dnum,COUNT(Dno),AVG(Salary)
+from Departments join Employee on Dno=Dnum
+group by Dname,Dnum
+having AVG(Salary)<(select AVG(Salary) from Employee)
+
+--7--
+select e.Fname,Lname,d.Dnum,Pname
+from Employee e 
+join Works_for on SSN=ESSn
+join Project on pno=Pnumber
+join Departments d on e.Dno=d.Dnum
+order by d.Dnum asc, e.Fname asc,e.Lname asc
+
+--8--
+select 
+(select MAX(Salary) from Employee) as First_Max,
+(select MAX(Salary) from Employee 
+ where Salary < (select MAX(Salary) from Employee)) as Second_Max
+
+ --9--
+ select CONCAT(Fname,' ',Lname) as full_name
+ from Employee
+ where CONCAT(Fname,' ',Lname) in (select Dependent_name from Dependent )
+
+ --10--
+UPDATE e
+SET e.Salary = e.Salary * 1.3
+FROM Employee e
+join Works_for w on e.SSN=w.ESSn
+join Project p  on p.Pnumber=w.Pno 
+where Pname='Al Rabwah' 
+
+--11--
+
+select SSN,Fname
+from Employee
+where exists(
+  select 1
+  from Dependent d
+  where SSN=d.ESSN
+)
+
+
+--DML--
+
+--1--
+insert into Departments
+values('DEPT IT',100,112233,'1-11-2006');
+
+select * from Departments
+
+--2--
+--a--
+update Departments
+set MGRSSN=968574
+where Dnum=100;
+--b--
+update Departments
+set MGRSSN=102672
+where Dnum=20;
+
+--c--
+update Employee
+set Superssn=102672
+where SSN=102660
+
+--3--
+
+delete from Dependent
+where ESSN=223344
+
+update Departments
+set MGRSSN=null 
+where MGRSSN=223344
+
+update Employee
+set Superssn=null
+where Superssn=223344
+
+DELETE FROM Works_for
+WHERE ESSn = 223344;
+
+delete from Employee
+where SSN=223344
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+using System;
+using System.ComponentModel;
+using System.Globalization;
+using System.Numerics;
+using System.Text.RegularExpressions;
+class Program
+{
+    static void Main()
+    {
+
+        string []input = Console.ReadLine().Split(' ');
+        int l1 = int.Parse(input[0]);
+        int r1 = int.Parse(input[1]);
+        int l2= int.Parse(input[2]);
+        int r2 = int.Parse(input[3]);
+
+        if (l2 > r1 || r2<l1)
+        {
+            Console.WriteLine(-1);
+        }
+        else
+        {
+            Console.WriteLine(Math.Max(l2,l1) + " "+Math.Min(r1,r2));
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+ 

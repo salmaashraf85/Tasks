@@ -1,0 +1,14 @@
+using System;
+using System.Globalization;
+class Program
+{
+    static void Main()
+    {
+        char x = char.Parse(Console.ReadLine());     
+        int result = (x >= 65 && x <= 90) ? x+32 : x-32;
+        Console.WriteLine((char)result);
+
+        
+
+    }
+}

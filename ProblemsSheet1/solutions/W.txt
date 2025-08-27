@@ -1,0 +1,44 @@
+using System;
+using System.ComponentModel;
+using System.Globalization;
+using System.Text.RegularExpressions;
+class Program
+{
+    static void Main()
+    {
+
+        string []input = Console.ReadLine().Split(' ');
+        int a = int.Parse(input[0]);
+        int b = int.Parse(input[2]);
+        string op = input[1];
+        int c= int.Parse(input[4]);
+        
+        switch(op)
+        {
+            case "+":
+                if(a+b == c) {
+                    Console.WriteLine("Yes");
+                }
+                else
+                { Console.WriteLine(a + b); }
+                break;
+            case "*":
+                if (a * b == c)
+                {
+                    Console.WriteLine("Yes");
+                }
+                else
+                { Console.WriteLine(a * b); }
+                break;
+
+            case "-":
+                if (a - b == c)
+                {
+                    Console.WriteLine("Yes");
+                }
+                else
+                { Console.WriteLine(a - b); }
+                break;
+        }
+    }
+}

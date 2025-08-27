@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ES2015",               // <-- better match
+      "module": "ESNext",
+      "moduleResolution": "Bundler",
+      "lib": ["DOM", "ES2015"],
+      "jsx": "react",
+      "strictNullChecks": true,
+      "strictFunctionTypes": true,
+      "sourceMap": true
+    },
+    "exclude": [
+      "node_modules",
+      "**/node_modules/*"
+    ]
+  }
+  
