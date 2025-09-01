@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "zgWdHvzZA9WuNwZw9nBNbbs3jYCFBtYw/VhJW0TBY9I=",
+  "Source": "WebApplication1",
+  "BasePath": "_content/WebApplication1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApplication1\\wwwroot",
+      "Source": "WebApplication1",
+      "ContentRoot": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\task26\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\task26\\WebApplication1\\wwwroot\\employee\\bb65ebc4-6ca4-4f25-a118-f1acf30c9e63.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\task26\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "employee/bb65ebc4-6ca4-4f25-a118-f1acf30c9e63.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\employee\\bb65ebc4-6ca4-4f25-a118-f1acf30c9e63.png"
+    },
+    {
+      "Identity": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\task26\\WebApplication1\\wwwroot\\employee\\c7d27f48-1f1e-4804-9829-74b73dabf723.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\task26\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "employee/c7d27f48-1f1e-4804-9829-74b73dabf723.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\employee\\c7d27f48-1f1e-4804-9829-74b73dabf723.png"
+    }
+  ]
+}
