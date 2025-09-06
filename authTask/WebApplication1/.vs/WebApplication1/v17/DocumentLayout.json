@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\mapper\\profilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:mapper\\profilemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\models\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:models\\roleseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\mapper\\productimageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:mapper\\productimageresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906175930_FixRelations2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250906175930_FixRelations2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:service\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\service\\interfaces\\ifileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:service\\interfaces\\ifileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\service\\implementation\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:service\\implementation\\fileupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\service\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:service\\implementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\configuration\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:configuration\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\authtask\\webapplication1\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E00CB15-7029-4DFA-8FBF-EF002793BC9B}|WebApplication1.csproj|solutionrelative:configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906180210_FixRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250906180210_FixRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906175445_FixRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250906175445_FixRelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906175056_secondCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250906175056_secondCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "Dto\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:59:02.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductImageResolver.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Mapper\\ProductImageResolver.cs",
+              "RelativeDocumentMoniker": "Mapper\\ProductImageResolver.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Mapper\\ProductImageResolver.cs",
+              "RelativeToolTip": "Mapper\\ProductImageResolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:56:22.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfileMapper.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Mapper\\ProfileMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\ProfileMapper.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Mapper\\ProfileMapper.cs",
+              "RelativeToolTip": "Mapper\\ProfileMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:55:24.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Service\\Implementation\\FileUpload.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\FileUpload.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Service\\Implementation\\FileUpload.cs",
+              "RelativeToolTip": "Service\\Implementation\\FileUpload.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:54:06.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IFileUpload.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Service\\Interfaces\\IFileUpload.cs",
+              "RelativeDocumentMoniker": "Service\\Interfaces\\IFileUpload.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Service\\Interfaces\\IFileUpload.cs",
+              "RelativeToolTip": "Service\\Interfaces\\IFileUpload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:53:18.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Dto\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "Dto\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Dto\\CreateProductDto.cs",
+              "RelativeToolTip": "Dto\\CreateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:49:05.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwC0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:42:08.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:37:39.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:30:55.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Controllers\\Base\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Base\\BaseController.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Controllers\\Base\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\Base\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T19:04:29.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "Models\\Response.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Models\\Response.cs",
+              "RelativeToolTip": "Models\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:59:12.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Service\\Implementation\\AuthService.cs",
+              "RelativeDocumentMoniker": "Service\\Implementation\\AuthService.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Service\\Implementation\\AuthService.cs",
+              "RelativeToolTip": "Service\\Implementation\\AuthService.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwHgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:41:32.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:34:38.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Service\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Service\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Service\\IAuthService.cs",
+              "RelativeToolTip": "Service\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:32:34.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Dto\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:26:10.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Dto\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:13:38.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250906180210_FixRelations.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906180210_FixRelations.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250906180210_FixRelations.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906180210_FixRelations.cs",
+              "RelativeToolTip": "Migrations\\20250906180210_FixRelations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T18:02:10.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250906175930_FixRelations2.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906175930_FixRelations2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250906175930_FixRelations2.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906175930_FixRelations2.cs",
+              "RelativeToolTip": "Migrations\\20250906175930_FixRelations2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:59:31.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250906175445_FixRelations.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906175445_FixRelations.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250906175445_FixRelations.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906175445_FixRelations.cs",
+              "RelativeToolTip": "Migrations\\20250906175445_FixRelations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:54:45.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250906175056_secondCreate.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906175056_secondCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250906175056_secondCreate.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Migrations\\20250906175056_secondCreate.cs",
+              "RelativeToolTip": "Migrations\\20250906175056_secondCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:50:57.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:50:08.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Models\\RoleSeeder.cs",
+              "RelativeDocumentMoniker": "Models\\RoleSeeder.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Models\\RoleSeeder.cs",
+              "RelativeToolTip": "Models\\RoleSeeder.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:26:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Configuration\\CartConfiguration.cs",
+              "RelativeDocumentMoniker": "Configuration\\CartConfiguration.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Configuration\\CartConfiguration.cs",
+              "RelativeToolTip": "Configuration\\CartConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T17:05:46.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Configuration\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "Configuration\\UserConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:58:14.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:49:51.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:48:07.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:42:08.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T16:38:07.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\authTask\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:36:19.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
