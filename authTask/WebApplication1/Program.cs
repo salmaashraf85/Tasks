@@ -6,10 +6,14 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Text;
+using WebApplication1.Attributes;
 using WebApplication1.Data;
 using WebApplication1.Mapper;
 using WebApplication1.Models;
 using WebApplication1.Service;
+using WebApplication1.Service.Implementation;
+using WebApplication1.Service.Interfaces;
+using WebApplication1.Settings;
 
 namespace WebApplication1
 {
@@ -25,11 +29,43 @@ namespace WebApplication1
             // Add services to the container.
 
             builder.Services.AddControllers();
+            var configuration = builder.Configuration;
+
+            // Configure Mail settings
+            var mailSetting = configuration.GetSection("Mail").Get<MailSetting>();
+            if (mailSetting == null)
+            {
+                throw new InvalidOperationException("Mail configuration section is missing or invalid.");
+            }
+            builder.Services.AddSingleton(mailSetting);
+
+            // Configure Server settings
+            var serverSetting = configuration.GetSection("Server").Get<ServerSetting>();
+            if (serverSetting == null)
+            {
+                throw new InvalidOperationException("Server configuration section is missing or invalid.");
+            }
+            builder.Services.AddSingleton(serverSetting);
+
+            // Configure DataProtectionTokenProvider settings
+            var dataProtectionTokenProviderSetting = configuration.GetSection("DataProtectionTokenProvider").Get<DataProtectionTokenProviderSetting>();
+            if (dataProtectionTokenProviderSetting == null)
+            {
+                throw new InvalidOperationException("DataProtectionTokenProvider configuration section is missing or invalid.");
+            }
+            builder.Services.AddSingleton(dataProtectionTokenProviderSetting);
+
+            builder.Services.AddScoped<IPasswordResetService, PasswordResetService>();
+
+            // Register services
+            builder.Services.AddScoped<IEmailService, EmailService>();
+            builder.Services.AddScoped<IFileService, FileService>();
+            builder.Services.AddScoped<IOtpService, OtpService>();
             builder.Services.AddIdentity<ApplicationUser,IdentityRole>()
              .AddEntityFrameworkStores<ApplicationDbContext>()
                .AddDefaultTokenProviders();
 
-
+            builder.Services.AddScoped<ValidateSessionAttribute>();
             builder.Services.AddScoped<IAuthService, AuthService>();
             builder.Services.AddAuthentication(options =>
             {

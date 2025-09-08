@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Net;
-using WebApplication1.Service;
 using WebApplication1.Dto;
 using WebApplication1.Models;
 using WebApplication1.Controllers.Base;
+using WebApplication1.Service.Interfaces;
 
 
 namespace WebApplication1.Controllers

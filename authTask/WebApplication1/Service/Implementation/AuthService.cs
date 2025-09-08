@@ -7,6 +7,7 @@ using System.Security.Claims;
 using System.Text;
 using WebApplication1.Dto;
 using WebApplication1.Models;
+using WebApplication1.Service.Interfaces;
 
 namespace WebApplication1.Service
 {
