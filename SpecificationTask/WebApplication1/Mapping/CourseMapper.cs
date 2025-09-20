@@ -11,9 +11,9 @@ namespace WebApplication1.Mapping
         public CourseMapper()
         {
 
-            CreateMap<CourseEntity, AddCourse>();
+            CreateMap<CourseEntity, CourseAddDto>();
 
-            CreateMap<AddCourse, CourseEntity>();
+            CreateMap<CourseAddDto, CourseEntity>();
             CreateMap<UpdateCourse, CourseEntity>();
             CreateMap<CourseWithStudentsDto, CourseEntity>();
             CreateMap<CourseEntity, CourseWithStudentsDto>();

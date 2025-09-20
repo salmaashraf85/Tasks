@@ -7,7 +7,7 @@ using WebApplication1.Repositories.Interfaces;
 
 namespace WebApplication1.Features.Course.Command.Handler
 {
-    public class AddCourseHandler : IRequestHandler<AddCourse, Response>
+    public class AddCourseHandler : IRequestHandler<CourseAddDto, Response>
     {
         private readonly IMapper _mapper;
         private readonly ICourseRepository _courseRepository;
@@ -17,7 +17,7 @@ namespace WebApplication1.Features.Course.Command.Handler
             _mapper = mapper;
         }
 
-        public async Task<Response> Handle(AddCourse request, CancellationToken cancellationToken)
+        public async Task<Response> Handle(CourseAddDto request, CancellationToken cancellationToken)
         {
 
 

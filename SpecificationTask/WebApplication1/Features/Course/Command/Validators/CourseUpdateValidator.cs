@@ -11,7 +11,7 @@ namespace WebApplication1.Features.Course.Command.Validators
                  .NotEmpty()
                  .WithMessage("Course code is required");
 
-            RuleFor(x => x.CName)
+            RuleFor(x => x.Cname)
                 .NotEmpty()
                 .WithMessage("course name is required");
         }

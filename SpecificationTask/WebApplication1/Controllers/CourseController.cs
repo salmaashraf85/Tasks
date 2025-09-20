@@ -4,6 +4,8 @@ using WebApplication1.AppMetaData;
 using WebApplication1.Features.Course.Query.Models;
 using WebApplication1.Features.Student.Command.Models;
 using WebApplication1.Features.Student.Query.Models;
+using WebApplication1.Features.Student.Command.Models;
+
 
 namespace WebApplication1.Controllers
 {
@@ -19,18 +21,15 @@ namespace WebApplication1.Controllers
         }
 
         [HttpPost(Router.CourseRoute.Main)]
-        public async Task<IActionResult> Add([FromBody] AddCourse command)
+        public async Task<IActionResult> Add([FromBody] CourseAddDto command)
         {
             var result = await mediator.Send(command);
             return Ok(result);
         }
 
-        [HttpPut(Router.CourseRoute.MainId)]
-        public async Task<IActionResult> Update(int id, [FromBody] UpdateCourse command)
+        [HttpPut(Router.CourseRoute.Main)]
+        public async Task<IActionResult> Update([FromBody] UpdateCourse command)
         {
-            if (id != command.Code)
-                return BadRequest("Id mismatch");
-
             var result = await mediator.Send(command);
             return Ok(result);
         }

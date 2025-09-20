@@ -14,11 +14,6 @@ namespace WebApplication1.Repositories.Implementations
             _context = context;
         }
 
-        public async Task<List<CourseEntity>> ListAsync(ISpecification<CourseEntity> spec)
-        {
-            var query = SpecificationEvaluator<CourseEntity>.GetQuery(_context.Courses.AsQueryable(), spec);
-            return await query.ToListAsync();
-        }
-
+       
     }
 }

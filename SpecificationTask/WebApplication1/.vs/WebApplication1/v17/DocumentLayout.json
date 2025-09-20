@@ -3,40 +3,112 @@
   "WorkspaceRootPath": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\query\\models\\getcoursewithstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\query\\models\\getcoursewithstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\implementations\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\implementations\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\command\\validators\\courseupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\command\\validators\\courseupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\behavior\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:behavior\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\mapping\\coursemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:mapping\\coursemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\query\\handler\\getcoursewithstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\query\\handler\\getcoursewithstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\command\\validators\\courseupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\command\\validators\\courseupdatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\mapping\\coursemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:mapping\\coursemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\command\\handler\\addcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\command\\handler\\addcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\student\\query\\handler\\getstudentwithcourseshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\student\\query\\handler\\getstudentwithcourseshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\query\\handler\\getcoursewithstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\query\\handler\\getcoursewithstudentshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\student\\query\\handler\\getstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\student\\query\\handler\\getstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\query\\models\\getcoursewithstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\query\\models\\getcoursewithstudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\command\\models\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\command\\models\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\student\\command\\models\\updatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\student\\command\\models\\updatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\command\\models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\command\\models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\query\\models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\query\\models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\global\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:global\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\appmetadata\\courseroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:appmetadata\\courseroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\behavior\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:behavior\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\query\\models\\coursewithstudentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,28 +123,8 @@
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\student\\query\\models\\getstudentswithcourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\implementations\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\implementations\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\interfaces\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\query\\handler\\getcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\query\\handler\\getcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\query\\models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\query\\models\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\student\\command\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,28 +143,12 @@
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:models\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\specification\\coursespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:specification\\coursespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\specification\\studentspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:specification\\studentspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\student\\query\\handler\\getstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\student\\query\\handler\\getstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:repositories\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\command\\handler\\deletecoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,22 +167,6 @@
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\command\\handler\\updatecoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\command\\models\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\command\\models\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\command\\models\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\command\\models\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\appmetadata\\courseroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:appmetadata\\courseroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\course\\command\\handler\\addcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\course\\command\\handler\\addcoursehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\student\\command\\handler\\addstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\student\\command\\handler\\addstudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -159,24 +179,12 @@
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\student\\command\\handler\\updatestudenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\student\\command\\models\\updatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\student\\command\\models\\updatestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\features\\student\\command\\models\\deletestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:features\\student\\command\\models\\deletestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\appmetadata\\studentroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -195,20 +203,12 @@
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:configurations\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\specification\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:specification\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\specification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:specification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\specificationtask\\webapplication1\\global\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{048AFACF-6028-47AC-A093-EE8CE7E1E999}|WebApplication1.csproj|solutionrelative:global\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -238,215 +238,267 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ValidationBehaviour.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Behavior\\ValidationBehaviour.cs",
-              "RelativeDocumentMoniker": "Behavior\\ValidationBehaviour.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Behavior\\ValidationBehaviour.cs",
-              "RelativeToolTip": "Behavior\\ValidationBehaviour.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowB8AAAAAAAAA",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T11:18:20.492Z",
+              "WhenOpened": "2025-09-09T23:49:58.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CourseUpdateValidator.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Validators\\CourseUpdateValidator.cs",
-              "RelativeDocumentMoniker": "Features\\Course\\Command\\Validators\\CourseUpdateValidator.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Validators\\CourseUpdateValidator.cs",
-              "RelativeToolTip": "Features\\Course\\Command\\Validators\\CourseUpdateValidator.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T11:12:43.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\MiddleWare\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "MiddleWare\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\MiddleWare\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "MiddleWare\\ExceptionMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T11:09:13.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetCourseWithStudents.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Models\\GetCourseWithStudents.cs",
-              "RelativeDocumentMoniker": "Features\\Course\\Query\\Models\\GetCourseWithStudents.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Models\\GetCourseWithStudents.cs",
-              "RelativeToolTip": "Features\\Course\\Query\\Models\\GetCourseWithStudents.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:56:01.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetCourseWithStudentsHandler.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Handler\\GetCourseWithStudentsHandler.cs",
-              "RelativeDocumentMoniker": "Features\\Course\\Query\\Handler\\GetCourseWithStudentsHandler.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Handler\\GetCourseWithStudentsHandler.cs",
-              "RelativeToolTip": "Features\\Course\\Query\\Handler\\GetCourseWithStudentsHandler.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAA5wBUAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:06:29.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAIwCgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T04:11:48.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CourseWithStudentsDto.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Models\\CourseWithStudentsDto.cs",
-              "RelativeDocumentMoniker": "Features\\Course\\Query\\Models\\CourseWithStudentsDto.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Models\\CourseWithStudentsDto.cs",
-              "RelativeToolTip": "Features\\Course\\Query\\Models\\CourseWithStudentsDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:09:52.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GetStudentWithCoursesHandler.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Handler\\GetStudentWithCoursesHandler.cs",
-              "RelativeDocumentMoniker": "Features\\Student\\Query\\Handler\\GetStudentWithCoursesHandler.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Handler\\GetStudentWithCoursesHandler.cs",
-              "RelativeToolTip": "Features\\Student\\Query\\Handler\\GetStudentWithCoursesHandler.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAiwCgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T03:12:16.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "CourseController.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Controllers\\CourseController.cs",
               "RelativeToolTip": "Controllers\\CourseController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAWwBAAAABGAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T09:37:42.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CourseMapper.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Mapping\\CourseMapper.cs",
-              "RelativeDocumentMoniker": "Mapping\\CourseMapper.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Mapping\\CourseMapper.cs",
-              "RelativeToolTip": "Mapping\\CourseMapper.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAvAAAA",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAArwCAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T09:35:20.573Z",
+              "WhenOpened": "2025-09-10T04:01:25.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StudentWithCoursesDto.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Models\\StudentWithCoursesDto.cs",
-              "RelativeDocumentMoniker": "Features\\Student\\Query\\Models\\StudentWithCoursesDto.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Models\\StudentWithCoursesDto.cs",
-              "RelativeToolTip": "Features\\Student\\Query\\Models\\StudentWithCoursesDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T03:37:15.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetStudentsWithCourses.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Models\\GetStudentsWithCourses.cs",
-              "RelativeDocumentMoniker": "Features\\Student\\Query\\Models\\GetStudentsWithCourses.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Models\\GetStudentsWithCourses.cs",
-              "RelativeToolTip": "Features\\Student\\Query\\Models\\GetStudentsWithCourses.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T03:11:54.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Interfaces\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Interfaces\\IStudentRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IStudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:53:30.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "CourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Implementations\\CourseRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implementations\\CourseRepository.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Implementations\\CourseRepository.cs",
               "RelativeToolTip": "Repositories\\Implementations\\CourseRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBQAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T23:55:41.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T23:55:28.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T23:53:30.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CourseUpdateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Validators\\CourseUpdateValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Course\\Command\\Validators\\CourseUpdateValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Validators\\CourseUpdateValidator.cs",
+              "RelativeToolTip": "Features\\Course\\Command\\Validators\\CourseUpdateValidator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:12:43.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseMapper.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Mapping\\CourseMapper.cs",
+              "RelativeDocumentMoniker": "Mapping\\CourseMapper.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Mapping\\CourseMapper.cs",
+              "RelativeToolTip": "Mapping\\CourseMapper.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAArwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:35:20.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddCourseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Handler\\AddCourseHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Course\\Command\\Handler\\AddCourseHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Handler\\AddCourseHandler.cs",
+              "RelativeToolTip": "Features\\Course\\Command\\Handler\\AddCourseHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:25:22.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetStudentWithCoursesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Handler\\GetStudentWithCoursesHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Student\\Query\\Handler\\GetStudentWithCoursesHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Handler\\GetStudentWithCoursesHandler.cs",
+              "RelativeToolTip": "Features\\Student\\Query\\Handler\\GetStudentWithCoursesHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T03:12:16.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetStudentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Handler\\GetStudentHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Student\\Query\\Handler\\GetStudentHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Handler\\GetStudentHandler.cs",
+              "RelativeToolTip": "Features\\Student\\Query\\Handler\\GetStudentHandler.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T03:08:33.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetCourseWithStudentsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Handler\\GetCourseWithStudentsHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Course\\Query\\Handler\\GetCourseWithStudentsHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Handler\\GetCourseWithStudentsHandler.cs",
+              "RelativeToolTip": "Features\\Course\\Query\\Handler\\GetCourseWithStudentsHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:06:29.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "GetCourseWithStudents.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Models\\GetCourseWithStudents.cs",
+              "RelativeDocumentMoniker": "Features\\Course\\Query\\Models\\GetCourseWithStudents.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Models\\GetCourseWithStudents.cs",
+              "RelativeToolTip": "Features\\Course\\Query\\Models\\GetCourseWithStudents.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAD4vwUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:56:01.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T23:50:55.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "ICourseRepository.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Interfaces\\ICourseRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\ICourseRepository.cs",
               "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Interfaces\\ICourseRepository.cs",
               "RelativeToolTip": "Repositories\\Interfaces\\ICourseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAABGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T23:53:51.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetCourseHandler.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Handler\\GetCourseHandler.cs",
-              "RelativeDocumentMoniker": "Features\\Course\\Query\\Handler\\GetCourseHandler.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Handler\\GetCourseHandler.cs",
-              "RelativeToolTip": "Features\\Course\\Query\\Handler\\GetCourseHandler.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAAAAAA",
+              "DocumentIndex": 16,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T09:56:26.922Z",
+              "WhenOpened": "2025-09-10T03:58:34.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
+              "Title": "UpdateCourse.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Models\\UpdateCourse.cs",
+              "RelativeDocumentMoniker": "Features\\Course\\Command\\Models\\UpdateCourse.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Models\\UpdateCourse.cs",
+              "RelativeToolTip": "Features\\Course\\Command\\Models\\UpdateCourse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:24:22.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateStudent.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Command\\Models\\UpdateStudent.cs",
+              "RelativeDocumentMoniker": "Features\\Student\\Command\\Models\\UpdateStudent.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Command\\Models\\UpdateStudent.cs",
+              "RelativeToolTip": "Features\\Student\\Command\\Models\\UpdateStudent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T00:07:37.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Models\\CourseDto.cs",
+              "RelativeDocumentMoniker": "Features\\Course\\Command\\Models\\CourseDto.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Models\\CourseDto.cs",
+              "RelativeToolTip": "Features\\Course\\Command\\Models\\CourseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:22:10.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "CourseDto.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Models\\CourseDto.cs",
               "RelativeDocumentMoniker": "Features\\Course\\Query\\Models\\CourseDto.cs",
@@ -459,20 +511,131 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAIA2wBAAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T04:01:25.417Z",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T22:13:23.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Global\\Response.cs",
+              "RelativeDocumentMoniker": "Global\\Response.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Global\\Response.cs",
+              "RelativeToolTip": "Global\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:35:13.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\MiddleWare\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddleWare\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\MiddleWare\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "MiddleWare\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:09:13.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseRoute.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\AppMetaData\\CourseRoute.cs",
+              "RelativeDocumentMoniker": "AppMetaData\\CourseRoute.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\AppMetaData\\CourseRoute.cs",
+              "RelativeToolTip": "AppMetaData\\CourseRoute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T03:56:51.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Configurations\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "Configurations\\CourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Configurations\\CourseConfiguration.cs",
+              "RelativeToolTip": "Configurations\\CourseConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAvwAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T22:26:23.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Behavior\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "Behavior\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Behavior\\ValidationBehaviour.cs",
+              "RelativeToolTip": "Behavior\\ValidationBehaviour.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:18:20.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CourseWithStudentsDto.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Models\\CourseWithStudentsDto.cs",
+              "RelativeDocumentMoniker": "Features\\Course\\Query\\Models\\CourseWithStudentsDto.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Models\\CourseWithStudentsDto.cs",
+              "RelativeToolTip": "Features\\Course\\Query\\Models\\CourseWithStudentsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:09:52.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StudentWithCoursesDto.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Models\\StudentWithCoursesDto.cs",
+              "RelativeDocumentMoniker": "Features\\Student\\Query\\Models\\StudentWithCoursesDto.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Models\\StudentWithCoursesDto.cs",
+              "RelativeToolTip": "Features\\Student\\Query\\Models\\StudentWithCoursesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T03:37:15.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetStudentsWithCourses.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Models\\GetStudentsWithCourses.cs",
+              "RelativeDocumentMoniker": "Features\\Student\\Query\\Models\\GetStudentsWithCourses.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Models\\GetStudentsWithCourses.cs",
+              "RelativeToolTip": "Features\\Student\\Query\\Models\\GetStudentsWithCourses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T03:11:54.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetCourseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Handler\\GetCourseHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Course\\Query\\Handler\\GetCourseHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Query\\Handler\\GetCourseHandler.cs",
+              "RelativeToolTip": "Features\\Course\\Query\\Handler\\GetCourseHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T09:56:26.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "StudentDto.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Command\\Models\\StudentDto.cs",
               "RelativeDocumentMoniker": "Features\\Student\\Command\\Models\\StudentDto.cs",
@@ -480,12 +643,11 @@
               "RelativeToolTip": "Features\\Student\\Command\\Models\\StudentDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:11:11.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T10:11:11.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "StudentEntity.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Models\\StudentEntity.cs",
               "RelativeDocumentMoniker": "Models\\StudentEntity.cs",
@@ -493,12 +655,11 @@
               "RelativeToolTip": "Models\\StudentEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T02:57:12.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T02:57:12.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 34,
               "Title": "CourseEntity.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Models\\CourseEntity.cs",
               "RelativeDocumentMoniker": "Models\\CourseEntity.cs",
@@ -506,12 +667,11 @@
               "RelativeToolTip": "Models\\CourseEntity.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwA4AAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T22:19:50.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T22:19:50.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "AddStudent.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Command\\Models\\AddStudent.cs",
               "RelativeDocumentMoniker": "Features\\Student\\Command\\Models\\AddStudent.cs",
@@ -519,38 +679,11 @@
               "RelativeToolTip": "Features\\Student\\Command\\Models\\AddStudent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:03:20.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T00:03:20.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Implementations\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementations\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Implementations\\StudentRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementations\\StudentRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:55:28.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Implementations\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Implementations\\GenericRepository.cs",
-              "RelativeToolTip": "Repositories\\Implementations\\GenericRepository.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowBMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:50:55.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 35,
               "Title": "CourseSpecification.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Specification\\CourseSpecification.cs",
               "RelativeDocumentMoniker": "Specification\\CourseSpecification.cs",
@@ -558,12 +691,11 @@
               "RelativeToolTip": "Specification\\CourseSpecification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T10:01:56.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T10:01:56.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 36,
               "Title": "StudentSpecification.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Specification\\StudentSpecification.cs",
               "RelativeDocumentMoniker": "Specification\\StudentSpecification.cs",
@@ -571,38 +703,11 @@
               "RelativeToolTip": "Specification\\StudentSpecification.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T03:24:20.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T03:24:20.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "GetStudentHandler.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Handler\\GetStudentHandler.cs",
-              "RelativeDocumentMoniker": "Features\\Student\\Query\\Handler\\GetStudentHandler.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Handler\\GetStudentHandler.cs",
-              "RelativeToolTip": "Features\\Student\\Query\\Handler\\GetStudentHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T03:08:33.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Repositories\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "Repositories\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:49:58.516Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "DeleteCourseHandler.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Handler\\DeleteCourseHandler.cs",
               "RelativeDocumentMoniker": "Features\\Course\\Command\\Handler\\DeleteCourseHandler.cs",
@@ -610,12 +715,11 @@
               "RelativeToolTip": "Features\\Course\\Command\\Handler\\DeleteCourseHandler.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAAACsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T09:25:36.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T09:25:36.159Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 40,
               "Title": "UpdateCourseHandler.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Handler\\UpdateCourseHandler.cs",
               "RelativeDocumentMoniker": "Features\\Course\\Command\\Handler\\UpdateCourseHandler.cs",
@@ -623,25 +727,11 @@
               "RelativeToolTip": "Features\\Course\\Command\\Handler\\UpdateCourseHandler.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwBkAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T09:25:49.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T09:25:49.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "UpdateCourse.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Models\\UpdateCourse.cs",
-              "RelativeDocumentMoniker": "Features\\Course\\Command\\Models\\UpdateCourse.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Models\\UpdateCourse.cs",
-              "RelativeToolTip": "Features\\Course\\Command\\Models\\UpdateCourse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T09:24:22.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 39,
               "Title": "DeleteCourse.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Models\\DeleteCourse.cs",
               "RelativeDocumentMoniker": "Features\\Course\\Command\\Models\\DeleteCourse.cs",
@@ -649,12 +739,11 @@
               "RelativeToolTip": "Features\\Course\\Command\\Models\\DeleteCourse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T09:24:43.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T09:24:43.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "DeleteStudentHandler.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Command\\Handler\\DeleteStudentHandler.cs",
               "RelativeDocumentMoniker": "Features\\Student\\Command\\Handler\\DeleteStudentHandler.cs",
@@ -662,38 +751,11 @@
               "RelativeToolTip": "Features\\Student\\Command\\Handler\\DeleteStudentHandler.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAQwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:13:25.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T00:13:25.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "AddCourse.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Models\\AddCourse.cs",
-              "RelativeDocumentMoniker": "Features\\Course\\Command\\Models\\AddCourse.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Models\\AddCourse.cs",
-              "RelativeToolTip": "Features\\Course\\Command\\Models\\AddCourse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T09:22:10.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "CourseRoute.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\AppMetaData\\CourseRoute.cs",
-              "RelativeDocumentMoniker": "AppMetaData\\CourseRoute.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\AppMetaData\\CourseRoute.cs",
-              "RelativeToolTip": "AppMetaData\\CourseRoute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T03:56:51.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 41,
               "Title": "AddStudentHandler.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Command\\Handler\\AddStudentHandler.cs",
               "RelativeDocumentMoniker": "Features\\Student\\Command\\Handler\\AddStudentHandler.cs",
@@ -701,25 +763,11 @@
               "RelativeToolTip": "Features\\Student\\Command\\Handler\\AddStudentHandler.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:13:11.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T00:13:11.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AddCourseHandler.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Handler\\AddCourseHandler.cs",
-              "RelativeDocumentMoniker": "Features\\Course\\Command\\Handler\\AddCourseHandler.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Course\\Command\\Handler\\AddCourseHandler.cs",
-              "RelativeToolTip": "Features\\Course\\Command\\Handler\\AddCourseHandler.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T09:25:22.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 42,
               "Title": "StudentMapper.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Mapping\\StudentMapper.cs",
               "RelativeDocumentMoniker": "Mapping\\StudentMapper.cs",
@@ -727,12 +775,11 @@
               "RelativeToolTip": "Mapping\\StudentMapper.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T03:44:07.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T03:44:07.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 43,
               "Title": "UpdateStudentHandler.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Command\\Handler\\UpdateStudentHandler.cs",
               "RelativeDocumentMoniker": "Features\\Student\\Command\\Handler\\UpdateStudentHandler.cs",
@@ -740,12 +787,11 @@
               "RelativeToolTip": "Features\\Student\\Command\\Handler\\UpdateStudentHandler.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAACkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:13:38.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T00:13:38.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "BaseSpecification.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Specification\\BaseSpecification.cs",
               "RelativeDocumentMoniker": "Specification\\BaseSpecification.cs",
@@ -753,12 +799,11 @@
               "RelativeToolTip": "Specification\\BaseSpecification.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwAcAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:06:29.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T23:06:29.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "DeleteStudent.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Command\\Models\\DeleteStudent.cs",
               "RelativeDocumentMoniker": "Features\\Student\\Command\\Models\\DeleteStudent.cs",
@@ -766,38 +811,11 @@
               "RelativeToolTip": "Features\\Student\\Command\\Models\\DeleteStudent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:06:12.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T00:06:12.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "UpdateStudent.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Command\\Models\\UpdateStudent.cs",
-              "RelativeDocumentMoniker": "Features\\Student\\Command\\Models\\UpdateStudent.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Command\\Models\\UpdateStudent.cs",
-              "RelativeToolTip": "Features\\Student\\Command\\Models\\UpdateStudent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T00:07:37.846Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-09T22:13:23.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "Router.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\AppMetaData\\Router.cs",
               "RelativeDocumentMoniker": "AppMetaData\\Router.cs",
@@ -805,12 +823,11 @@
               "RelativeToolTip": "AppMetaData\\Router.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T03:48:18.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T03:48:18.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "StudentRoute.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\AppMetaData\\StudentRoute.cs",
               "RelativeDocumentMoniker": "AppMetaData\\StudentRoute.cs",
@@ -818,25 +835,11 @@
               "RelativeToolTip": "AppMetaData\\StudentRoute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T03:49:50.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T03:49:50.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "Controllers\\BaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T03:58:34.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "GetStudentById.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Features\\Student\\Query\\Models\\GetStudentById.cs",
               "RelativeDocumentMoniker": "Features\\Student\\Query\\Models\\GetStudentById.cs",
@@ -844,12 +847,11 @@
               "RelativeToolTip": "Features\\Student\\Query\\Models\\GetStudentById.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T03:07:29.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-10T03:07:29.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -857,25 +859,11 @@
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAEwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T22:15:16.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T22:15:16.795Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "CourseConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Configurations\\CourseConfiguration.cs",
-              "RelativeDocumentMoniker": "Configurations\\CourseConfiguration.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Configurations\\CourseConfiguration.cs",
-              "RelativeToolTip": "Configurations\\CourseConfiguration.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAEwAkAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T22:26:23.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "SpecificationEvaluator.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Specification\\SpecificationEvaluator.cs",
               "RelativeDocumentMoniker": "Specification\\SpecificationEvaluator.cs",
@@ -883,12 +871,11 @@
               "RelativeToolTip": "Specification\\SpecificationEvaluator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:27:26.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T23:27:26.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "ISpecification.cs",
               "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Specification\\ISpecification.cs",
               "RelativeDocumentMoniker": "Specification\\ISpecification.cs",
@@ -896,21 +883,7 @@
               "RelativeToolTip": "Specification\\ISpecification.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T23:05:48.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Global\\Response.cs",
-              "RelativeDocumentMoniker": "Global\\Response.cs",
-              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\SpecificationTask\\WebApplication1\\Global\\Response.cs",
-              "RelativeToolTip": "Global\\Response.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T22:35:13.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T23:05:48.722Z"
             }
           ]
         }

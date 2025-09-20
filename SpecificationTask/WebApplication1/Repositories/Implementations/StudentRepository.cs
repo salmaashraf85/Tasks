@@ -15,10 +15,5 @@ namespace WebApplication1.Repositories.Implementations
             _context = context;
         }
 
-        public async Task<List<StudentEntity>> ListAsync(ISpecification<StudentEntity> spec)
-        {
-            var query = SpecificationEvaluator<StudentEntity>.GetQuery(_context.Students.AsQueryable(), spec);
-            return await query.ToListAsync();
-        }
     }
 }

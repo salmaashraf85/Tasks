@@ -1,12 +1,20 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebApplication1.Data;
+using WebApplication1.Models;
 using WebApplication1.Repositories.Interfaces;
+using WebApplication1.Specification;
 
 namespace WebApplication1.Repositories.Implementations
 {
     public class GenericRepository<TEntity> (ApplicationDbContext _context) :IGenericRepository<TEntity> where TEntity : class
     {
-        
+
+        public async Task<List<TEntity>> ListAsync(ISpecification<TEntity> spec)
+        {
+            var query = SpecificationEvaluator<TEntity>.GetQuery(_context.Set<TEntity>().AsQueryable(), spec);
+            return await query.ToListAsync();
+        }
+
         public virtual async Task Create(TEntity entity)
         {
             await _context.Set<TEntity>().AddAsync(entity);

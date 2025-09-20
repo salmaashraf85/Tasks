@@ -9,7 +9,23 @@
     "Parameters": [
       {
         "Name": "command",
-        "Type": "WebApplication1.Features.Student.Command.Models.AddCourse",
+        "Type": "WebApplication1.Features.Student.Command.Models.CourseAddDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.CourseController",
+    "Method": "Update",
+    "RelativePath": "api/Course/Api/V1/Course",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "WebApplication1.Features.Student.Command.Models.UpdateCourse",
         "IsRequired": true
       }
     ],
@@ -26,27 +42,6 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "WebApplication1.Controllers.CourseController",
-    "Method": "Update",
-    "RelativePath": "api/Course/Api/V1/Course/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "command",
-        "Type": "WebApplication1.Features.Student.Command.Models.UpdateCourse",
         "IsRequired": true
       }
     ],
@@ -86,6 +81,22 @@
   },
   {
     "ContainingType": "WebApplication1.Controllers.StudentController",
+    "Method": "Update",
+    "RelativePath": "api/Student/Api/V1/Student",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "WebApplication1.Features.Student.Command.Models.UpdateStudent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.StudentController",
     "Method": "GetById",
     "RelativePath": "api/Student/Api/V1/Student/{id}",
     "HttpMethod": "GET",
@@ -95,27 +106,6 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "WebApplication1.Controllers.StudentController",
-    "Method": "Update",
-    "RelativePath": "api/Student/Api/V1/Student/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "command",
-        "Type": "WebApplication1.Features.Student.Command.Models.UpdateStudent",
         "IsRequired": true
       }
     ],

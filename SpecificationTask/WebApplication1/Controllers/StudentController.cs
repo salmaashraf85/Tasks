@@ -25,12 +25,9 @@ namespace WebApplication1.Controllers
             return Ok(result);
         }
 
-        [HttpPut(Router.StudentRouter.MainId)]
-        public async Task<IActionResult> Update(int id, [FromBody] UpdateStudent command)
+        [HttpPut(Router.StudentRouter.Main)]
+        public async Task<IActionResult> Update([FromBody] UpdateStudent command)
         {
-            if (id != command.Id)
-                return BadRequest("Id mismatch");
-
             var result = await mediator.Send(command);
             return Ok(result);
         }

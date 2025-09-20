@@ -5,7 +5,6 @@ namespace WebApplication1.Repositories.Interfaces
 {
     public interface ICourseRepository :IGenericRepository<CourseEntity>
     {
-        Task<List<CourseEntity>> ListAsync(ISpecification<CourseEntity> spec);
 
     }
 }
