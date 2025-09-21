@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcAG9AawGxO1UAASK2INyAdWnur+mOOXq4E34qb5R4zt79hlwxT+kBiHOBstgQ+LQ1/ffcwC884heCGrLwwVkg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Project.Application.csproj",
+  "expectedPackageFiles": [
+    "D:\\NuGetPackages\\ardalis.specification\\9.2.0\\ardalis.specification.9.2.0.nupkg.sha512",
+    "D:\\NuGetPackages\\ardalis.specification.entityframeworkcore\\9.2.0\\ardalis.specification.entityframeworkcore.9.2.0.nupkg.sha512",
+    "D:\\NuGetPackages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "D:\\NuGetPackages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "D:\\NuGetPackages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "D:\\NuGetPackages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "D:\\NuGetPackages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "D:\\NuGetPackages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "D:\\NuGetPackages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.entityframeworkcore\\8.0.16\\microsoft.entityframeworkcore.8.0.16.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.entityframeworkcore.abstractions\\8.0.16\\microsoft.entityframeworkcore.abstractions.8.0.16.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.entityframeworkcore.analyzers\\8.0.16\\microsoft.entityframeworkcore.analyzers.8.0.16.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.entityframeworkcore.relational\\8.0.16\\microsoft.entityframeworkcore.relational.8.0.16.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.logging\\8.0.1\\microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.2.0 was resolved.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

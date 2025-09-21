@@ -1,0 +1,1409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\carts\\queries\\getcartbyid\\getcartqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\carts\\queries\\getcartbyid\\getcartqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\carts\\specification\\cartwithitemspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\carts\\specification\\cartwithitemspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\specifications\\cartitemspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\specifications\\cartitemspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\carts\\dtos\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\carts\\dtos\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\models\\carts\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\models\\carts\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.presentation\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|solutionrelative:project.presentation\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\mapping\\cart\\cartprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\mapping\\cart\\cartprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\mapping\\cartitem\\cartitemprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\mapping\\cartitem\\cartitemprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\carts\\queries\\getcartbyid\\getcartquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\carts\\queries\\getcartbyid\\getcartquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\dtos\\carditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\dtos\\carditemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\specifications\\categoryspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\specifications\\categoryspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\queries\\getbyid\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\queries\\getbyid\\getcategorybyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\queries\\getbyd\\getitembyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\queries\\getbyd\\getitembyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\queries\\getbyd\\getitembyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\queries\\getbyd\\getitembyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.presentation\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|solutionrelative:project.presentation\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.presentation\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|solutionrelative:project.presentation\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\queries\\getbyid\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\queries\\getbyid\\getcategorybyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\queries\\getall\\getallitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\queries\\getall\\getallitemsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\queries\\getall\\getallitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\queries\\getall\\getallitemsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\models\\cartitems\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\models\\cartitems\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\queries\\getall\\getallcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\queries\\getall\\getallcategoryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\queries\\getall\\getallcategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\queries\\getall\\getallcategoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\commands\\update\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\commands\\update\\updatecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\commands\\update\\updatecarditemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\commands\\update\\updatecarditemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\commands\\update\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\commands\\update\\updatecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\commands\\update\\updatecarditemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\commands\\update\\updatecarditemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\commands\\delete\\deletecarditemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\commands\\delete\\deletecarditemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\commands\\update\\updatecarditemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\commands\\update\\updatecarditemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\commands\\delete\\deletecarditemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\commands\\delete\\deletecarditemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\carts\\commands\\delete\\deletecartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\carts\\commands\\delete\\deletecartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\commands\\delete\\deletecarditemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\commands\\delete\\deletecarditemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\carts\\commands\\delete\\deletecartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\carts\\commands\\delete\\deletecartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\commands\\delete\\deletecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\commands\\delete\\deletecategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\carts\\commands\\add\\addcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\carts\\commands\\add\\addcartcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\carts\\commands\\add\\addcartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\carts\\commands\\add\\addcartcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\carts\\commands\\delete\\deletecardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\carts\\commands\\delete\\deletecardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\commands\\add\\addcartitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\commands\\add\\addcartitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\commands\\add\\addcartitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\commands\\add\\addcartitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\cartitems\\commands\\add\\addcartitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\cartitems\\commands\\add\\addcartitemcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.infrastructure\\configurations\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|solutionrelative:project.infrastructure\\configurations\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\carts\\commands\\add\\addcartvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\carts\\commands\\add\\addcartvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\routes\\cartitemrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\routes\\cartitemrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\routes\\productrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\routes\\productrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\routes\\cartrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\routes\\cartrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\routes\\categoryrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\routes\\categoryrouter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\mapping\\product\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\mapping\\product\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\commands\\add\\addcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\commands\\add\\addcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\commands\\add\\addcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\commands\\add\\addcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.infrastructure\\configurations\\cartitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|solutionrelative:project.infrastructure\\configurations\\cartitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|solutionrelative:project.infrastructure\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.infrastructure\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|solutionrelative:project.infrastructure\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|solutionrelative:project.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\products\\commands\\update\\updateproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\products\\commands\\update\\updateproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\commands\\update\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\commands\\update\\updatecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\products\\commands\\update\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\products\\commands\\update\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\products\\commands\\update\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\products\\commands\\update\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\products\\commands\\delete\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\products\\commands\\delete\\deleteproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\products\\queries\\getbyid\\getproductbyidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\products\\queries\\getbyid\\getproductbyidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\products\\commands\\delete\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\products\\commands\\delete\\deleteproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\commands\\add\\addcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\commands\\add\\addcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\mapping\\category\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\mapping\\category\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\models\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\models\\categories\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\commands\\delete\\deletecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\commands\\delete\\deletecategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\products\\commands\\delete\\deleteproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\products\\commands\\delete\\deleteproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\queries\\getbyid\\getcategorybyidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\queries\\getbyid\\getcategorybyidvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\products\\queries\\getbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\products\\queries\\getbyid\\getproductbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\products\\queries\\getbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\products\\queries\\getbyid\\getproductbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\products\\queries\\getall\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\products\\queries\\getall\\getallproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\products\\queries\\getall\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\products\\queries\\getall\\getallproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\features\\categories\\commands\\delete\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\features\\categories\\commands\\delete\\deletecategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\models\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\models\\base\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|solutionrelative:project.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.infrastructure\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|solutionrelative:project.infrastructure\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\models\\base\\isoftdeletableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\models\\base\\isoftdeletableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\models\\base\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\models\\base\\iauditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.infrastructure\\migrations\\20250920220423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|solutionrelative:project.infrastructure\\migrations\\20250920220423_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|solutionrelative:project.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B838595F-D741-46F1-8C1B-2D09190E8513}|Project.Application\\Project.Application.csproj|solutionrelative:project.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.domain\\models\\categories\\categoryconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{006C07AD-D28C-44EA-827D-A74A1A5AF552}|Project.Domain\\Project.Domain.csproj|solutionrelative:project.domain\\models\\categories\\categoryconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{380ECF96-963B-4457-BEE1-E41DD775139A}|Project.Infrastructure\\Project.Infrastructure.csproj|solutionrelative:project.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|c:\\users\\salma\\onedrive\\desktop\\web_tasks\\clean_archi_task\\project.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5AE3B180-5C77-4244-ACD0-3342D310876E}|Project.Presentation\\Project.Presentation.csproj|solutionrelative:project.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartwithItemSpec.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Specification\\CartwithItemSpec.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Carts\\Specification\\CartwithItemSpec.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Specification\\CartwithItemSpec.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Carts\\Specification\\CartwithItemSpec.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T20:03:59.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardDto.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Dtos\\CardDto.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Carts\\Dtos\\CardDto.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Dtos\\CardDto.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Carts\\Dtos\\CardDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:49:41.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetCartQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Queries\\GetCartById\\GetCartQueryHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Carts\\Queries\\GetCartById\\GetCartQueryHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Queries\\GetCartById\\GetCartQueryHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Carts\\Queries\\GetCartById\\GetCartQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:47:51.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Carts\\Cart.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Models\\Carts\\Cart.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Carts\\Cart.cs",
+              "RelativeToolTip": "Project.Domain\\Models\\Carts\\Cart.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:17:21.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CardItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Dtos\\CardItemDto.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Dtos\\CardItemDto.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Dtos\\CardItemDto.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Dtos\\CardItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:25:51.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItemProfile.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Mapping\\CartItem\\CartItemProfile.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Mapping\\CartItem\\CartItemProfile.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Mapping\\CartItem\\CartItemProfile.cs",
+              "RelativeToolTip": "Project.Application\\Mapping\\CartItem\\CartItemProfile.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBQAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:46:11.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartProfile.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Mapping\\Cart\\CartProfile.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Mapping\\Cart\\CartProfile.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Mapping\\Cart\\CartProfile.cs",
+              "RelativeToolTip": "Project.Application\\Mapping\\Cart\\CartProfile.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:33:00.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Project.Presentation\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Project.Presentation\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T17:59:19.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartItemSpec.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Specifications\\CartItemSpec.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Specifications\\CartItemSpec.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Specifications\\CartItemSpec.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Specifications\\CartItemSpec.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:21:24.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetCartQuery.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Queries\\GetCartById\\GetCartQuery.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Carts\\Queries\\GetCartById\\GetCartQuery.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Queries\\GetCartById\\GetCartQuery.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Carts\\Queries\\GetCartById\\GetCartQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:47:37.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategorySpec.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Specifications\\CategorySpec.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Specifications\\CategorySpec.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Specifications\\CategorySpec.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Specifications\\CategorySpec.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:33:25.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetCategoryByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdQueryHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdQueryHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:40:01.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetItemByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Queries\\GetByd\\GetItemByIdQuery.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Queries\\GetByd\\GetItemByIdQuery.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Queries\\GetByd\\GetItemByIdQuery.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Queries\\GetByd\\GetItemByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:35:17.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Dtos\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:28:48.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Project.Presentation\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Project.Presentation\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAgwBwAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:06:08.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "Project.Presentation\\Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "Project.Presentation\\Controllers\\CartItemController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA5wC0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:48:44.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetItemByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Queries\\GetByd\\GetItemByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Queries\\GetByd\\GetItemByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Queries\\GetByd\\GetItemByIdQueryHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Queries\\GetByd\\GetItemByIdQueryHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAASwB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:35:50.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetCategoryByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdQuery.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdQuery.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdQuery.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdQuery.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAhwAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:39:40.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetAllItemsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Queries\\GetAll\\GetAllItemsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Queries\\GetAll\\GetAllItemsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Queries\\GetAll\\GetAllItemsQueryHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Queries\\GetAll\\GetAllItemsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:24:26.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllItemsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Queries\\GetAll\\GetAllItemsQuery.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Queries\\GetAll\\GetAllItemsQuery.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Queries\\GetAll\\GetAllItemsQuery.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Queries\\GetAll\\GetAllItemsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T19:23:48.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\CartItems\\CartItem.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Models\\CartItems\\CartItem.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\CartItems\\CartItem.cs",
+              "RelativeToolTip": "Project.Domain\\Models\\CartItems\\CartItem.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAApwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:19:00.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetAllCategoryQuery.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Queries\\GetAll\\GetAllCategoryQuery.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Queries\\GetAll\\GetAllCategoryQuery.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Queries\\GetAll\\GetAllCategoryQuery.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Queries\\GetAll\\GetAllCategoryQuery.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:27:29.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetAllCategoryQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Queries\\GetAll\\GetAllCategoryQueryHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Queries\\GetAll\\GetAllCategoryQueryHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Queries\\GetAll\\GetAllCategoryQueryHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Queries\\GetAll\\GetAllCategoryQueryHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:27:42.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UpdateCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryCommandHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAiwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:52:19.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateCardItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemCommandHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:49:50.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UpdateCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryCommand.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:51:46.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateCardItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemCommand.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemCommand.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemCommand.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:49:39.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteCardItemValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:46:51.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateCardItemValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Commands\\Update\\UpdateCardItemValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:50:05.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeleteCardItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemCommandHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:46:36.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteCardItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemCommand.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemCommand.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemCommand.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Commands\\Delete\\DeleteCardItemCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:46:23.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DeleteCartCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCartCommandHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCartCommandHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCartCommandHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCartCommandHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:37:49.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DeleteCartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCartCommand.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCartCommand.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCartCommand.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCartCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:37:32.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddCartCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Add\\AddCartCommandHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Carts\\Commands\\Add\\AddCartCommandHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Add\\AddCartCommandHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Carts\\Commands\\Add\\AddCartCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:01:48.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "DeleteCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryCommandHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryCommandHandler.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:14:09.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddCartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Add\\AddCartCommand.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Carts\\Commands\\Add\\AddCartCommand.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Add\\AddCartCommand.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Carts\\Commands\\Add\\AddCartCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:01:29.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DeleteCardValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCardValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCardValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCardValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Carts\\Commands\\Delete\\DeleteCardValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:38:20.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AddCartItemValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:39:19.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddCartItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemCommandHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:39:40.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AddCartItemCommand.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemCommand.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemCommand.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemCommand.cs",
+              "RelativeToolTip": "Project.Application\\Features\\CartItems\\Commands\\Add\\AddCartItemCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:38:54.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Configurations\\CartConfiguration.cs",
+              "RelativeDocumentMoniker": "Project.Infrastructure\\Configurations\\CartConfiguration.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Configurations\\CartConfiguration.cs",
+              "RelativeToolTip": "Project.Infrastructure\\Configurations\\CartConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:27:00.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddCartValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Add\\AddCartValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Carts\\Commands\\Add\\AddCartValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Carts\\Commands\\Add\\AddCartValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Carts\\Commands\\Add\\AddCartValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:02:07.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CartItemRouter.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Routes\\CartItemRouter.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Routes\\CartItemRouter.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Routes\\CartItemRouter.cs",
+              "RelativeToolTip": "Project.Domain\\Routes\\CartItemRouter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:50:31.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductRouter.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Routes\\ProductRouter.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Routes\\ProductRouter.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Routes\\ProductRouter.cs",
+              "RelativeToolTip": "Project.Domain\\Routes\\ProductRouter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:53:48.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CartRouter.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Routes\\CartRouter.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Routes\\CartRouter.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Routes\\CartRouter.cs",
+              "RelativeToolTip": "Project.Domain\\Routes\\CartRouter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:54:45.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoryRouter.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Routes\\CategoryRouter.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Routes\\CategoryRouter.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Routes\\CategoryRouter.cs",
+              "RelativeToolTip": "Project.Domain\\Routes\\CategoryRouter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T05:59:01.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AddCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryCommandHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:09:44.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Mapping\\Product\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Mapping\\Product\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Mapping\\Product\\ProductProfile.cs",
+              "RelativeToolTip": "Project.Application\\Mapping\\Product\\ProductProfile.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:48:14.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AddCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryCommand.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:09:37.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CartItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Configurations\\CartItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Project.Infrastructure\\Configurations\\CartItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Configurations\\CartItemConfiguration.cs",
+              "RelativeToolTip": "Project.Infrastructure\\Configurations\\CartItemConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:23:42.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UpdateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:02:19.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Project.Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Project.Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwC0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:22:19.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Project.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Project.Infrastructure\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T21:34:34.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:01:46.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Project.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Project.Infrastructure\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T21:34:46.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "UpdateCategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Commands\\Update\\UpdateCategoryValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:52:38.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Models\\Products\\Product.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Products\\Product.cs",
+              "RelativeToolTip": "Project.Domain\\Models\\Products\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:04:24.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Products\\Commands\\Update\\UpdateProductCommandHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T06:02:02.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "GetProductByIdValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:52:50.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DeleteProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductCommand.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductCommand.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductCommand.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:14:35.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DeleteProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductCommandHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:16:08.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "AddCategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Commands\\Add\\AddCategoryValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:10:11.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Categories\\Category.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Models\\Categories\\Category.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Categories\\Category.cs",
+              "RelativeToolTip": "Project.Domain\\Models\\Categories\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T21:23:23.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Mapping\\Category\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Mapping\\Category\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Mapping\\Category\\CategoryProfile.cs",
+              "RelativeToolTip": "Project.Application\\Mapping\\Category\\CategoryProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:48:06.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "DeleteCategoryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:14:29.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "DeleteProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Products\\Commands\\Delete\\DeleteProductValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:54:15.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "GetCategoryByIdValidator.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdValidator.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdValidator.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdValidator.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Queries\\GetById\\GetCategoryByIdValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:40:27.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GetProductByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:40:51.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "GetProductByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdQueryHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Products\\Queries\\GetById\\GetProductByIdQueryHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:42:08.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "GetAllProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Queries\\GetAll\\GetAllProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Products\\Queries\\GetAll\\GetAllProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Queries\\GetAll\\GetAllProductsQueryHandler.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Products\\Queries\\GetAll\\GetAllProductsQueryHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwAsAAAClAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:30:05.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GetAllProductsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Queries\\GetAll\\GetAllProductsQuery.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Products\\Queries\\GetAll\\GetAllProductsQuery.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Products\\Queries\\GetAll\\GetAllProductsQuery.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Products\\Queries\\GetAll\\GetAllProductsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:27:47.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Base\\Entity.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Models\\Base\\Entity.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Base\\Entity.cs",
+              "RelativeToolTip": "Project.Domain\\Models\\Base\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T21:23:32.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DeleteCategoryCommand.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryCommand.cs",
+              "RelativeDocumentMoniker": "Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryCommand.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryCommand.cs",
+              "RelativeToolTip": "Project.Application\\Features\\Categories\\Commands\\Delete\\DeleteCategoryCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:13:43.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Project.Infrastructure\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Project.Infrastructure\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:06:53.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Project.Infrastructure\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Project.Infrastructure\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:05:28.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ISoftDeletableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Base\\ISoftDeletableEntity.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Models\\Base\\ISoftDeletableEntity.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Base\\ISoftDeletableEntity.cs",
+              "RelativeToolTip": "Project.Domain\\Models\\Base\\ISoftDeletableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:04:42.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IAuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Base\\IAuditableEntity.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Models\\Base\\IAuditableEntity.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Base\\IAuditableEntity.cs",
+              "RelativeToolTip": "Project.Domain\\Models\\Base\\IAuditableEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T04:04:39.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250920220423_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Migrations\\20250920220423_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Project.Infrastructure\\Migrations\\20250920220423_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Migrations\\20250920220423_InitialCreate.cs",
+              "RelativeToolTip": "Project.Infrastructure\\Migrations\\20250920220423_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T22:04:24.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Project.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Project.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T21:49:00.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "CategoryConstants.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Categories\\CategoryConstants.cs",
+              "RelativeDocumentMoniker": "Project.Domain\\Models\\Categories\\CategoryConstants.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Domain\\Models\\Categories\\CategoryConstants.cs",
+              "RelativeToolTip": "Project.Domain\\Models\\Categories\\CategoryConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T21:23:16.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Project.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Project.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:45:19.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Project.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\Program.cs",
+              "RelativeToolTip": "Project.Presentation\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:44:38.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Project.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\salma\\OneDrive\\Desktop\\WEB_TASKS\\clean_Archi_task\\Project.Presentation\\appsettings.json",
+              "RelativeToolTip": "Project.Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T20:33:27.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
